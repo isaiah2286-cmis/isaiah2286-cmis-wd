@@ -1,9 +1,19 @@
 h1{
 	font-family: Papyrus;
-	font-size: 23pt;
+	font-size: 40pt;
 	color: red;
 	border-bottom: 2px solid blue;
 	
+
 }
-p{ 
-	font-family: courier, courier-new, serif
+
+h2{
+	font-size: 30pt;
+	font-family: Copperplate;
+	color: yellow;
+	border: blue
+	border-style: groove
+	background-color: red
+}
+
+	
