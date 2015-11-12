@@ -19,6 +19,7 @@ ls *adsflkjalkfj*: show files with adsflkjalkfj in the middle
 
 sftp isaiah2286@cmis-hsteacher
 sahI2gXw0s7sE
+cd public_html/
 
 Git Commands
 git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http://url-to-your-repo

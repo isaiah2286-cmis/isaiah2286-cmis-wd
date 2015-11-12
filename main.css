@@ -1,19 +1,42 @@
 h1{
-	font-family: Papyrus;
+	font-family:Papyrus, fantasy;;
 	font-size: 40pt;
 	color: red;
 	border-bottom: 2px solid blue;
-	
+	background: #00ffff
 
 }
 
 h2{
 	font-size: 30pt;
-	font-family: Copperplate;
+	font-family: 'Lucida Sans Typewriter', 'Lucida Console', monaco, 'Bitstream Vera Sans Mono', monospace;
 	color: yellow;
-	border: blue
-	border-style: groove
-	background-color: red
+	border: purple;
+	border-style: groove;
+	background-color: red;
 }
 
+p1{
+	font-family: Copperplate / Copperplate Gothic Light, sans-serif;
+	font-size: 20pt;
+	color: white;
+	border: #DAA520;
+	border-style: inset;
+	border-width: 3pt;
+	background: green;
+}
+p2{
 	
+	font-family: Copperplate / Copperplate Gothic Light, sans-serif;
+	font-size: 20pt;
+	color: orange ;
+	border: #FF00FF;
+	border-style: outset;
+	border-width: 3pt;
+	background: yellow;
+}
+body{
+	border-style: inset;
+	border-width: 5pt;
+	background-image: url("bgdesert.jpg");
+}
