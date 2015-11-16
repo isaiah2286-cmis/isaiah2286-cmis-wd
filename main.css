@@ -16,7 +16,7 @@ h2{
 	background-color: red;
 }
 
-p1{
+p{
 	font-family: Copperplate / Copperplate Gothic Light, sans-serif;
 	font-size: 20pt;
 	color: white;
@@ -25,7 +25,7 @@ p1{
 	border-width: 3pt;
 	background: green;
 }
-p2{
+p{
 	
 	font-family: Copperplate / Copperplate Gothic Light, sans-serif;
 	font-size: 20pt;
@@ -38,5 +38,5 @@ p2{
 body{
 	border-style: inset;
 	border-width: 5pt;
-	background-image: url("bgdesert.jpg");
+	background-image: images/brick_small.jpg;
 }
