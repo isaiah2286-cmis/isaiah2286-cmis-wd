@@ -16,13 +16,21 @@ put *: put all the file insde the folder
 rm *: remove everything in the folder
 ls *.txt: show the file end with .txt
 ls *adsflkjalkfj*: show files with adsflkjalkfj in the middle
+mkdir: make a new folder
+rmdir: remove a folder
+pwd: show where I am
+python -m SimpleHTTPServer - Start the development server
+localhost:8080/filename
 
 sftp isaiah2286@cmis-hsteacher
-sahI2gXw0s7sE
+isaiah2286
 cd public_html/
+http://cmis-hsteacher/isaiah2286
 
 Git Commands
 git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http://url-to-your-repo
 git add <file name>
+or
+git add <folder name>
 git commit -m "Commit Comment"
 git push
