@@ -25,7 +25,7 @@ localhost:8080/filename
 sftp isaiah2286@cmis-hsteacher
 isaiah2286
 cd public_html/
-http://cmis-hsteacher/isaiah2286
+http://cmis-hsteacher/~isaiah2286
 
 Git Commands
 git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http://url-to-your-repo
