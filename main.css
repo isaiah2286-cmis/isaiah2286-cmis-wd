@@ -40,3 +40,21 @@ body{
 	border-width: 5pt;
 	background-image: images/brick_small.jpg;
 }
+h3{
+	font-family: Copperplate / Copperplate Gothic Light, sans-serif;
+	font-size: 20pt;
+	color: blue ;
+	border: red;
+	border-style: outset;
+	border-width: 3pt;
+	background: green;
+}
+ul{
+
+	font-family: Copperplate / Copperplate Gothic Light, sans-serif;
+	font-size: 15pt;
+	color: orange ;
+	border: purple;
+	border-style: outset;
+	border-width: 3pt;
+	background: black;
