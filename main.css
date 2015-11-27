@@ -1,6 +1,8 @@
 h1{
-	font-family:Papyrus, fantasy;;
-	font-size: 40pt;
+	font-family: Satisfy, cursive;
+	font-weight:normal;
+	font-size:40pt;
+	padding-top: 60pt;
 	color: red;
 	border-bottom: 2px solid blue;
 	background: #00ffff
@@ -8,7 +10,7 @@ h1{
 }
 
 h2{
-	font-size: 30pt;
+	font-size: 25pt;
 	font-family: 'Lucida Sans Typewriter', 'Lucida Console', monaco, 'Bitstream Vera Sans Mono', monospace;
 	color: yellow;
 	border: purple;
@@ -16,7 +18,7 @@ h2{
 	background-color: red;
 }
 
-p{
+p:first-letter{
 	font-family: Copperplate / Copperplate Gothic Light, sans-serif;
 	font-size: 20pt;
 	color: white;
