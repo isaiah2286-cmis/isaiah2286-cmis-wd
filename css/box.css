@@ -1,8 +1,38 @@
-body{
-	border:
-	margin:
-	padding:
-	width:
+ ul{
+	border:black;
+	border-style:double;
+	margin-top:80px;
+	margin-bottom:20px;
+	margin-right:20px;
+	margin-left:20px;
+	padding-top:10px;
+	padding-bottom:10px;
+	width:70px;
 	height:
 }
+ul.one{	
+	border:black;
+	border-style:double;
+	margin-top:80px;
+	margin-bottom:20px;
+	margin-right:20px;
+	margin-left:20px;
+	padding:;
+	width:410px;
+	height:
+}
+ol{
+	border:black;
+	border-style:groove;
+	border-width:10px;
+	border-color:red;
+	margin-top:80px;
+	margin-bottom:20px;
+	margin-right:20px;
+	margin-left:20px;
+	padding:20px;
+	padding-left:40px;
+	width:410px;
+	height:
+	background-image:href="http://cmis-hsteacher/~isaiah2286/listsandlinks/main.css";
 
