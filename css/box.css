@@ -22,7 +22,7 @@ ul.one{
 	height:
 }
 ol{
-	border:black;
+	border:green;
 	border-style:groove;
 	border-width:10px;
 	border-color:red;
@@ -34,5 +34,20 @@ ol{
 	padding-left:40px;
 	width:410px;
 	height:
-	background-image:href="http://cmis-hsteacher/~isaiah2286/listsandlinks/main.css";
-
+	background-image:
+}
+body ~ p{
+	border:gray;
+	border-style:ridge;
+	border-width:10px;
+	border-color:red;
+	margin-top:80px;
+	margin-bottom:20px;
+	margin-right:20px;
+	margin-left:20px;
+	padding:50px;
+	padding-left:40px;
+	width:500px;
+	height:
+	background-image: url('image.jpg')
+}
