@@ -35,11 +35,12 @@ ol{
 	padding-left:40px;
 	width:410px;
 	height:
-	background:blue;
+	background-color:blue;
 }
 body{
 	background:url(http://jeffcarsonmusic.com/wp-content/uploads/2015/04/math-coding-blue-background-creative-wallpapers-HD.jpg) no-repeat center center fixed;
 	color:white;
+	float:middle;
 }
 body >p{
 	background-color:blue;
