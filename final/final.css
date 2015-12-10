@@ -1,0 +1,33 @@
+header{
+	background-color:#8B4513;
+	border-style:groove;
+	border:;
+	width:400px;
+	margin-left:550px;
+	padding-left:30px;
+
+}
+footer{
+	clear:both;
+}
+nav{ 
+	width:200px;
+	float:left;
+	border-style:inset;
+	
+}
+*{ //outline:dotted;
+}
+main{
+	margin-left:210px;
+	border:solid;
+}
+img{
+	height:300px;
+	width:300px;
+	margin-left:800px;
+}
+article.one{
+	border-style:solid;
+
+
